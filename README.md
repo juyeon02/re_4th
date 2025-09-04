@@ -32,4 +32,6 @@ __굵기__
 
 ![이미지테스트](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fstatic.hubzum.zumst.com%2Fhubzum%2F2022%2F02%2F10%2F14%2F3ea39a0f140c44b8b26761a93d11aa18.jpg&type=a340)
 
+<img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fstatic.hubzum.zumst.com%2Fhubzum%2F2022%2F02%2F10%2F14%2F3ea39a0f140c44b8b26761a93d11aa18.jpg&type=a340" width="50" height="50">
+
 > 인용문구
